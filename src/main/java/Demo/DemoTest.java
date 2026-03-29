@@ -2,7 +2,7 @@ package Demo;
 
 public class DemoTest {
     public static void main(String[] args) {
-        System.out.println("hello world updated twice");
+        System.out.println("hello world");
         featureB();
     }
 
