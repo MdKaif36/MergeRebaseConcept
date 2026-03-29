@@ -3,10 +3,10 @@ package Demo;
 public class DemoTest {
     public static void main(String[] args) {
         System.out.println("hello world");
-        featureA();
+        featureB();
     }
 
-    public static void featureA(){
-        System.out.println("login feature");
+    public static void featureB(){
+        System.out.println("payment feature");
     }
 }
